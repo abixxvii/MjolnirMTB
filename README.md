@@ -6,6 +6,7 @@ Many technical issues have been addressed but it is anticipated there will be mo
 Due to the modularity of the system it will need research and design work carried out to create the different components.
 
 I chose Project Mjolnir as a zero credit course/Vertically Integrated Project (VIP) in Fall '23. This repo contains the updates to the backrest and the footrest of the bike. 
+The bike frame is uploaded as an image.
 
 Credits to Noel Joyce and Phil Caridi.
 

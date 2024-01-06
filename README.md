@@ -8,3 +8,6 @@ Due to the modularity of the system it will need research and design work carrie
 I chose Project Mjolnir as a zero credit course/Vertically Integrated Project (VIP) in Fall '23. This repo contains the updates to the backrest and the footrest of the bike. 
 
 Credits to Noel Joyce and Phil Caridi.
+
+PLEASE DOWNLOAD THE RAW FILES INORDER TO ACCESS THE CAD MODELS.
+++FUSION 360 IS PREFERRED++

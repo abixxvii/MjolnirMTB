@@ -12,3 +12,6 @@ PLEASE DOWNLOAD THE RAW FILES INORDER TO ACCESS THE CAD MODELS.
 ++FUSION 360 IS PREFERRED++
 
 [News article](https://www.silive.com/news/2023/08/an-adaptive-bike-gives-woman-a-new-chance-for-mobility-at-freshkills-park.html)
+
+
+<br/><img src='/Photo_1.jpg'>"
